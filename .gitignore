@@ -134,3 +134,10 @@ data/
 # Visual Studio Code Workspace
 .vscode/
 *.code-workspace
+
+# .bat files
+*.bat
+
+# Pickle files
+*.pkl
+*.pickle

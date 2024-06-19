@@ -1,7 +1,9 @@
-# Projeto Scintilla
+# Scintilla Project
 
-Projeto final da disciplina de Megadados do 6° semestre do curso de Engenharia da Computação do Insper.
+**Authors:** Renato Laffranchi Falcão (@renatex333) & Matheus Ribeiro Barros (@MineManiac)
 
-O objetivo do projeto é criar um classificador Naive Bayes para uma grande quantidade de dados, utilizando Apache Spark.
+Final project for the Big Data course in the 6th semester of the Computer Engineering program at Insper.
 
-O relatório contendo o desenvolvimento do projeto está em `projeto_spark.ipynb`.
+The objective of the project is to create a Naive Bayes classifier for a large dataset using Apache Spark.
+
+The report detailing the project development is available in `projeto_spark.ipynb`.
